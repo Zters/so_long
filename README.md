@@ -1,2 +1,2 @@
-# so_long
-so_long
+# 42Cursus-So_Long
+Minilibx 2D Game
